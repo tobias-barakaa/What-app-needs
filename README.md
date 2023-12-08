@@ -141,21 +141,34 @@ Will take a max effort of a month.
 </ul>
 
 <h4>Backend will require -</h4>
+<h2>Backend Requirements:</h2>
+<ul>
+  <li><strong>Something equivalent to Graph DB:</strong> Choose and implement a suitable graph database for efficient data storage and retrieval.</li>
 
-Something equivalent to Graph DB
-Multiple micro-services
-Security of apis
-Pen testing
-UTs, Functional test cases
-Automated test cases
-Auto scaling group
-Administration module
-Stats module
-Cdns
-CICD
-GEO-LOCATION Compliances
-And many more things..
+  <li><strong>Multiple Micro-services:</strong> Design and implement the backend as a collection of microservices to enhance scalability, maintainability, and flexibility.</li>
 
-The minimal viable product with minimal very very basic functionality will take atleast 3 months with a team of 6–7 good software engineers, an architect, a manager and a UX guy.
+  <li><strong>Security of APIs:</strong> Implement robust security measures to protect APIs from unauthorized access and potential vulnerabilities.</li>
 
-(Still thinking what major things are missing in the list)
+  <li><strong>Penetration Testing:</strong> Conduct regular penetration testing to identify and address potential security weaknesses.</li>
+
+  <li><strong>Unit Tests, Functional Test Cases, Automated Test Cases:</strong> Ensure comprehensive testing coverage to validate the functionality, security, and performance of the backend.</li>
+
+  <li><strong>Auto Scaling Group:</strong> Implement auto-scaling mechanisms to dynamically adjust resources based on demand.</li>
+
+  <li><strong>Administration Module:</strong> Develop an administration module for managing and monitoring backend services.</li>
+
+  <li><strong>Stats Module:</strong> Implement a module for collecting and analyzing system and application performance statistics.</li>
+
+  <li><strong>CDNs (Content Delivery Networks):</strong> Utilize CDNs to enhance the speed and availability of content delivery.</li>
+
+  <li><strong>CI/CD (Continuous Integration and Deployment):</strong> Implement CI/CD pipelines to automate the testing, integration, and deployment processes.</li>
+
+  <li><strong>Geo-Location:</strong> Incorporate geo-location features for applications that require location-based functionality.</li>
+
+  <li><strong>Compliances:</strong> Ensure compliance with industry standards, regulations, and data protection laws.</li>
+
+  <li><strong>And Many More:</strong> Consider additional requirements specific to the project, such as logging, monitoring, error handling, and third-party integrations.</li>
+</ul>
+
+<p><em>The minimal viable product with minimal, very, very basic functionality will take at least 3 months with a team of 6–7 good software engineers, an architect, a manager, and a UX designer.</em></p>
+
