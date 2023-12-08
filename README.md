@@ -1,6 +1,6 @@
 <h1>Can you make an app for sharing pictures, something like a Instagram?</h1>
 
-#Beginner Programmer
+<h4>Beginner Programmer</h4>
 
 The mobile app will be pretty easy, just need to use some native library to display list of pictures.
 
@@ -10,9 +10,9 @@ Will take a max effort of a month.
 
 (Super confident)
 
-##Experienced Programmer
+<h4>Experienced Programmer</h4>
 
-#Mobile app will need -
+<h6>Mobile app will need -</h6>
 
 Authentication
 Authorization
@@ -26,7 +26,7 @@ Automated test cases
 Native apps for multiple platforms
 Common libraries
 Continuous integration and deployment.
-#Backend will require -
+<h4>Backend will require -</h4>
 
 Something equivalent to Graph DB
 Multiple micro-services
