@@ -14,18 +14,18 @@ Will take a max effort of a month.
 
 <h6>Mobile app will need -</h6>
 
-Authentication
-Authorization
-Caching
-Edge cases
-Basic functionality
-Click stream
-Unit test cases
-Functional test cases
-Automated test cases
-Native apps for multiple platforms
-Common libraries
-Continuous integration and deployment.
+Authentication <br />
+Authorization<br />
+Caching<br />
+Edge cases<br />
+Basic functionality<br />
+Click stream<br />
+Unit test cases<br />
+Functional test cases<br />
+Automated test cases<br />
+Native apps for multiple platforms<br />
+Common libraries<br />
+Continuous integration and deployment.<br />
 <h4>Backend will require -</h4>
 
 Something equivalent to Graph DB
