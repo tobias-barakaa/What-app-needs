@@ -14,32 +14,41 @@ Will take a max effort of a month.
 
 <h6>Mobile app will need -</h6>
 
-<ol>
-  <li><strong>Authentication:</strong> Ensuring that users are who they claim to be before granting access to the application. Common methods include username/password, biometrics, or OAuth.</li>
-  
-  <li><strong>Authorization:</strong> Determining what actions and resources a user is allowed to access or modify within the application. Authorization ensures that authenticated users have appropriate permissions.</li>
-  
-  <li><strong>Caching:</strong> Storing frequently accessed data in a cache to reduce the need to fetch it from the original source repeatedly. This improves performance and reduces latency.</li>
-  
-  <li><strong>Edge Cases:</strong> Considering and testing scenarios that are at the "edge" or boundary of expected input conditions. These are often situations that may not occur frequently but can have a significant impact when they do.</li>
-  
-  <li><strong>Basic Functionality:</strong> Implementing the core features and functions that define the primary purpose of the application.</li>
-  
-  <li><strong>Click Stream:</strong> Tracking and analyzing the sequence of user interactions within the application. Click stream analysis helps understand user behavior and optimize the user experience.</li>
-  
-  <li><strong>Unit Test Cases:</strong> Writing and executing tests that validate the smallest units of code (functions, methods, or classes) to ensure they work as intended.</li>
-  
-  <li><strong>Functional Test Cases:</strong> Testing the overall functionality of a specific feature or the entire system. Functional tests verify that the application behaves correctly according to specifications.</li>
-  
-  <li><strong>Automated Test Cases:</strong> Creating scripts or automated tests that can be run to validate various aspects of the application's functionality. Automated testing helps catch regressions and ensures consistent behavior.</li>
-  
-  <li><strong>Native Apps for Multiple Platforms:</strong> Developing separate versions of the application tailored for different operating systems (e.g., iOS and Android) using platform-specific development tools.</li>
-  
-  <li><strong>Common Libraries:</strong> Utilizing shared code libraries or frameworks to streamline development, improve consistency, and leverage existing solutions for common tasks.</li>
-  
-  <li><strong>Continuous Integration and Deployment (CI/CD):</strong> Implementing practices and tools that automate the process of integrating code changes into a shared repository, running tests, and deploying the application to production. CI/CD helps maintain code quality and accelerate the delivery pipeline.</li>
-</ol>
+<h2>Authentication:</h2>
+<p>Ensuring that users are who they claim to be before granting access to the application. Common methods include username/password, biometrics, or OAuth.</p>
 
+<h2>Authorization:</h2>
+<p>Determining what actions and resources a user is allowed to access or modify within the application. Authorization ensures that authenticated users have appropriate permissions.</p>
+
+<h2>Caching:</h2>
+<p>Storing frequently accessed data in a cache to reduce the need to fetch it from the original source repeatedly. This improves performance and reduces latency.</p>
+
+<h2>Edge Cases:</h2>
+<p>Considering and testing scenarios that are at the "edge" or boundary of expected input conditions. These are often situations that may not occur frequently but can have a significant impact when they do.</p>
+
+<h2>Basic Functionality:</h2>
+<p>Implementing the core features and functions that define the primary purpose of the application.</p>
+
+<h2>Click Stream:</h2>
+<p>Tracking and analyzing the sequence of user interactions within the application. Click stream analysis helps understand user behavior and optimize the user experience.</p>
+
+<h2>Unit Test Cases:</h2>
+<p>Writing and executing tests that validate the smallest units of code (functions, methods, or classes) to ensure they work as intended.</p>
+
+<h2>Functional Test Cases:</h2>
+<p>Testing the overall functionality of a specific feature or the entire system. Functional tests verify that the application behaves correctly according to specifications.</p>
+
+<h2>Automated Test Cases:</h2>
+<p>Creating scripts or automated tests that can be run to validate various aspects of the application's functionality. Automated testing helps catch regressions and ensures consistent behavior.</p>
+
+<h2>Native Apps for Multiple Platforms:</h2>
+<p>Developing separate versions of the application tailored for different operating systems (e.g., iOS and Android) using platform-specific development tools.</p>
+
+<h2>Common Libraries:</h2>
+<p>Utilizing shared code libraries or frameworks to streamline development, improve consistency, and leverage existing solutions for common tasks.</p>
+
+<h2>Continuous Integration and Deployment (CI/CD):</h2>
+<p>Implementing practices and tools that automate the process of integrating code changes into a shared repository, running tests, and deploying the application to production. CI/CD helps maintain code quality and accelerate the delivery pipeline.</p>
 
 <h2>Scalability and Performance Optimization:</h2>
 <ul>
