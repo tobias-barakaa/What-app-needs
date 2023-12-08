@@ -26,7 +26,6 @@ Automated test cases<br />
 Native apps for multiple platforms<br />
 Common libraries<br />
 Continuous integration and deployment.<br />
-<h4>Backend will require -</h4>
 
 <h2>Scalability and Performance Optimization:</h2>
 <ul>
@@ -118,6 +117,7 @@ Continuous integration and deployment.<br />
   <li>Regularly test backup and recovery procedures.</li>
 </ul>
 
+<h4>Backend will require -</h4>
 
 Something equivalent to Graph DB
 Multiple micro-services
